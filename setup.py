@@ -27,6 +27,6 @@ if __name__ == "__main__":
             "Git Repository": "https://github.com/matheusvilano/mutaprim.git",
         },
         python_requires=">=3.6",
-        url="https://github.com/matheusvilano/PyWwise.git",
+        url="https://github.com/matheusvilano/mutaprim.git",
         version="0.1.0",
     )
