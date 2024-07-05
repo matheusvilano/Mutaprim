@@ -13,7 +13,7 @@ if __name__ == "__main__":
             "OPERATING SYSTEM :: OS INDEPENDENT",
             "PROGRAMMING LANGUAGE :: PYTHON :: 3",
         ],
-        description="Mutable primitives - types that encapsulate a primitive so it can be modified inside a function.",
+        description="A collection of classes that encapsulate a primitive so it can be modified inside a function.",
         install_requires=(Path(__file__).parent / "requirements.txt").read_text().splitlines(),
         keywords="reference mutable primitive modify pass encapsulation container",
         license="Apache Software License (Apache License 2.0)",
